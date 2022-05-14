@@ -1,6 +1,5 @@
 import React from "react";
 import photo from "../Assets/cake.jpg";
-import gif from "../Assets/dance.gif";
 
 function Front() {
   return (
